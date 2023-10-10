@@ -8,6 +8,7 @@ interface GroupChat {
   };
 }
 
+
 const GroupChat: React.FC<GroupChat> = ({navigation}) => {
   return (
     <View>
